@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Messenger</string>
+
+    <!-- Login Fragment -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- SignIn Activity -->
+    <string name="sign_in">Sign in</string>
+    <string name="registration">Registration</string>
+
+</resources>
